@@ -36,7 +36,7 @@ export default {
     '@nuxtjs/prismic'
   ],
   prismic: {
-    endpoint: "https://teaching.cdn.prismic.io/api/v2",
+    endpoint: // your prismic repo endpoint
 //      apiOptions: {
 //        access_token: 'yourAccessToken'
 //      }
